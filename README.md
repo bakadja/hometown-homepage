@@ -35,7 +35,7 @@ The site is fully responsive, providing an optimized experience for desktops, ta
 
 ## Demo
 
-View the live demo [here](https://bakadja.github.io/product-page/).
+View the live demo [here](https://hometown.kevinngongang.dev/).
 
 ## Installation
 
